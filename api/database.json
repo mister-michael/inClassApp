@@ -1,0 +1,19 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Seven Samurai",
+            "releaseDate": "1954"
+        },
+        {
+            "id": 2,
+            "title": "Nick of Time",
+            "releaseDate": "1995"
+        },
+        {
+            "id": 3,
+            "title": "Sharky's Machine",
+            "releaseDate": "1981"
+        }
+    ]
+}
